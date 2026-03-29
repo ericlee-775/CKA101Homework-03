@@ -1,6 +1,6 @@
 package hw2;
 
-public class home_work2_3 {
+public class Home_work2_3 {
 	public static void main(String args[]) {
 //		請設計一隻Java程式,輸出結果為以下:
 //			A

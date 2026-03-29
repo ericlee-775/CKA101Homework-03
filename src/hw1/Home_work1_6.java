@@ -1,6 +1,6 @@
 package hw1;
 
-public class home_work1_6 {
+public class Home_work1_6 {
 	public static void main(String[] args) {
 //	• 請寫一隻程式,利用System.out.println()印出以下三個運算式結果:
 //		5 + 5

@@ -1,6 +1,6 @@
 package hw1;
 
-public class home_work1_3 {
+public class Home_work1_3 {
 	public static void main(String[] args) {
 	int seconds= 256559;
 	int day=seconds/(60*60*24);

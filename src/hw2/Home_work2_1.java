@@ -1,6 +1,6 @@
 package hw2;
 
-public class home_work2_1 {
+public class Home_work2_1 {
 	public static void main(String args[]) {
 //		請設計一隻Java程式,計算1~1000的偶數和 (2+4+6+8+...+1000)
 		int sum=0;
